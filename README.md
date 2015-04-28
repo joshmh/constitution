@@ -1,5 +1,7 @@
 [![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland/liberland)
 
+Test
+
 # Liberland constitution
 
 **Notice: this is NOT a final version of Constitution, it is just a draft!**
